@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T09:24:16.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="QGT1BeLRJk15WhbBcCrg" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:25:24.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="hKJ_eVA8iai13xa8AqnU" version="24.4.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="756" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#f9fafa" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="fXX9wSg6Y7w_bflggcrf-11" value="Generalisation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-12" value="Data stored and retreived from multilple sources&amp;nbsp;" style="text;align=center;verticalAlign=middle;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;fontStyle=0;textShadow=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;spacing=0;fontFamily=Comic Sans MS;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-12" value="Data stored and retreived from multilple sources." style="text;align=center;verticalAlign=middle;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;fontStyle=0;textShadow=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;spacing=0;fontFamily=Comic Sans MS;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="30" y="350" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fXX9wSg6Y7w_bflggcrf-13" value="A program gains knowledge from data by learning concepts. Model are fitted. Abstract information extracted." style="text;align=center;verticalAlign=middle;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;fontStyle=0;textShadow=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;spacing=0;fontFamily=Comic Sans MS;fontColor=#143642;" vertex="1" parent="1">
