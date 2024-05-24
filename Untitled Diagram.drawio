@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T08:36:31.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7rr5dOnYPE4GDmu2-qo_" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T08:44:52.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="dh2oaMkQHwXPJegiSOmm" version="24.4.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="756" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-18" value="" style="rounded=1;textOpacity=10;labelBackgroundColor=none;fillColor=#6a00ff;fontColor=#121111;strokeColor=#3700CC;fontSize=13;textShadow=0;labelBorderColor=none;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="520" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="fXX9wSg6Y7w_bflggcrf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fXX9wSg6Y7w_bflggcrf-1" target="fXX9wSg6Y7w_bflggcrf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -25,10 +28,10 @@
         <mxCell id="fXX9wSg6Y7w_bflggcrf-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-8" value="Data Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-8" value="Data Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#0050ef;fontStyle=1;fontColor=#121111;strokeColor=#001DBC;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="240" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-9" value="Abstraction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-9" value="Abstraction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#0050ef;fontColor=#121111;strokeColor=#001DBC;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fXX9wSg6Y7w_bflggcrf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fXX9wSg6Y7w_bflggcrf-10" target="fXX9wSg6Y7w_bflggcrf-8">
@@ -39,22 +42,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-10" value="Evaluation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-10" value="Evaluation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#0050ef;fontColor=#121111;strokeColor=#001DBC;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-11" value="Generalisation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-11" value="Generalisation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#0050ef;fontColor=#121111;strokeColor=#001DBC;fontSize=13;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="240" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-12" value="Data stored and retreived from multilple sources&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-12" value="Data stored and retreived from multilple sources " style="text;align=center;verticalAlign=middle;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;fontStyle=1;textShadow=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="350" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-13" value="A computer program gains knowled from data by learning concepts. Model are fitted. Abstract information extracted." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-13" value="A computer program gains knowledge from data by learning concepts. Model are fitted. Abstract information extracted." style="text;align=center;verticalAlign=middle;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;fontStyle=1;textShadow=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-14" value="Output used o measure performance of model by a user. Necessary changes made to improve performance.&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-14" value="Output used o measure performance of model by a user. Necessary changes made to improve performance. " style="text;align=center;verticalAlign=middle;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;fontStyle=1;textShadow=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="350" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fXX9wSg6Y7w_bflggcrf-15" value="Apply knowledge gained by making inferences. Useful information generated.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;" vertex="1" parent="1">
+        <mxCell id="fXX9wSg6Y7w_bflggcrf-15" value="Apply knowledge gained by making inferences. Useful information generated. " style="text;align=center;verticalAlign=middle;rounded=0;shadow=1;perimeterSpacing=1;opacity=60;fontStyle=1;textShadow=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="350" width="90" height="120" as="geometry" />
         </mxCell>
       </root>
